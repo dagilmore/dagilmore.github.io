@@ -9,7 +9,7 @@
 title: David Gilmore
 email: dagilmore91@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Data | AI | Deep Learning | Coffee | Whiskey | Jazz | Rock Climbing
+  AI | Coffee | Jazz | Rock Climbing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dagilmore.com" # the base hostname & protocol for your site
 twitter_username: dagilmore1
